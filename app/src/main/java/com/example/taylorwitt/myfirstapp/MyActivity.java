@@ -15,7 +15,7 @@ import android.widget.EditText;
 
 public class MyActivity extends AppCompatActivity {
 
-    public final static String EXTRA_MESSAGE = "com.mycompany.myfirstapp.MESSAGE";
+    public final static String EXTRA_MESSAGE = "com.example.taylorwitt.myfirstapp.MESSAGE";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
